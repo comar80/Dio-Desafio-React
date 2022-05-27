@@ -1,3 +1,6 @@
+# Desafio ReactJS da DIO
+Desenvolvimento de SPA com uso do ReactJS, Axios e Styled Components para busca de repositórios do Github através do username
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
